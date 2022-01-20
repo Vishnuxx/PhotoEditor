@@ -1,4 +1,4 @@
-# PhotoEditor
+## PhotoEditor
 
-# A simple Online photo editor
+## A simple Online photo editor
 (Under development)
